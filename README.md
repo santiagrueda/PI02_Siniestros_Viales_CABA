@@ -36,7 +36,7 @@ Este proyecto tiene como objetivo la elaboración de un análisis de datos simul
   - `EDA.ipynb`: Análisis Exploratorio de Datos.
   - `DashBoard.pbix`: DashBoard en Power By.
 
-# Proceso de Trabajo
+# Desarrollo de Trabajo
 
 El análisis se centra en dos bases de datos en archivos Excel: `homicidios.xlsx`, `lesiones.xlsx` en complemento con `poblacion_comunas.csv` que contienen información sobre victimas fatales en accidentes de tránsito, informacion sobre victimas con lesiones más no de gravedad fatal y la poblacion total de cada comuna respectivamente, en la Ciudad de Buenos Aires, Argentina. Estos datos se someten a un proceso de ETL para unificar y limpiar los datos, es de resaltar que el rol de este proyecto es un ***Data Analyst***, por lo que no es adecuado realizar transformaciones, ya que no es una función del rol. Luego, se realiza un análisis exploratorio de
 datos (EDA) para hallar tendencias, valores duplicados y atípicos, así mismo como patrones en los datos.
