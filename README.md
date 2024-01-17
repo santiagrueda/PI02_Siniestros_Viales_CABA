@@ -97,6 +97,6 @@ Durante el análisis de los datos, se destacaron hallazgos importantes:
 
 ### Enlaces :
 
-* [Repositorio de GitHub](https://github.com/santiagrueda/PI02_Siniestros_Viales)
-* [Linkedin](https://www.linkedin.com/in/santiago-rueda-mira-050b55113/)# PI02_Siniestros_Viales
-# PI02_Siniestros_Viales_CABA
+* [Repositorio de GitHub](https://github.com/santiagrueda/PI02_Siniestros_Viales_CABA)
+* [Linkedin](https://www.linkedin.com/in/santiago-rueda-mira-050b55113/)
+
