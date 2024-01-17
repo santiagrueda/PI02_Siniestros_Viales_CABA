@@ -99,4 +99,3 @@ Durante el análisis de los datos, se destacaron hallazgos importantes:
 
 * [Repositorio de GitHub](https://github.com/santiagrueda/PI02_Siniestros_Viales_CABA)
 * [Linkedin](https://www.linkedin.com/in/santiago-rueda-mira-050b55113/)
-
