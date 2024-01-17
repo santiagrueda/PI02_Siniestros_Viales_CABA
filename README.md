@@ -77,7 +77,7 @@ correctamente.
 
 ### Paso 4: Power BI
 
-- Creación de un dashboard interactivo y un informe de análisis(en README).
+- Creación de un dashboard interactivo y un informe de análisis(README).
 
 ********************************************************************
 
